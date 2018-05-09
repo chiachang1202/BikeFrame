@@ -7,7 +7,7 @@
 ## Block and Function  
 
   module function  
-  : -- | -- :  
+  : -- : | : -- :  
   arduino nano|main control chip  
   RFID|lock and unlock function  
   GPS|trace location  
