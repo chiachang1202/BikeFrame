@@ -1,4 +1,4 @@
-# BikeFrame  
+#  BikeFrame  
 
 ##  Specification  
 
@@ -6,7 +6,7 @@
 
 ## Block and Function  
 
-  module function  
+  module|function  
   :---:|:---:  
   arduino nano|main control chip  
   RFID|lock and unlock function  
